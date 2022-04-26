@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/NovicamMarketDemo/static/css/main.66c6cec9.chunk.css",
+    "main.js": "/NovicamMarketDemo/static/js/main.9771cae6.chunk.js",
+    "main.js.map": "/NovicamMarketDemo/static/js/main.9771cae6.chunk.js.map",
+    "runtime-main.js": "/NovicamMarketDemo/static/js/runtime-main.f0e5f6ee.js",
+    "runtime-main.js.map": "/NovicamMarketDemo/static/js/runtime-main.f0e5f6ee.js.map",
+    "static/css/2.caa02cb8.chunk.css": "/NovicamMarketDemo/static/css/2.caa02cb8.chunk.css",
+    "static/js/2.f2588cd4.chunk.js": "/NovicamMarketDemo/static/js/2.f2588cd4.chunk.js",
+    "static/js/2.f2588cd4.chunk.js.map": "/NovicamMarketDemo/static/js/2.f2588cd4.chunk.js.map",
+    "index.html": "/NovicamMarketDemo/index.html",
+    "static/css/2.caa02cb8.chunk.css.map": "/NovicamMarketDemo/static/css/2.caa02cb8.chunk.css.map",
+    "static/css/main.66c6cec9.chunk.css.map": "/NovicamMarketDemo/static/css/main.66c6cec9.chunk.css.map",
+    "static/js/2.f2588cd4.chunk.js.LICENSE.txt": "/NovicamMarketDemo/static/js/2.f2588cd4.chunk.js.LICENSE.txt",
+    "static/media/arrow.566fdd2a.svg": "/NovicamMarketDemo/static/media/arrow.566fdd2a.svg",
+    "static/media/btn-checked.0c4d8afb.svg": "/NovicamMarketDemo/static/media/btn-checked.0c4d8afb.svg",
+    "static/media/btn-plus.503fc6fb.svg": "/NovicamMarketDemo/static/media/btn-plus.503fc6fb.svg",
+    "static/media/btn-remove.845f3635.svg": "/NovicamMarketDemo/static/media/btn-remove.845f3635.svg",
+    "static/media/cart.896ad80a.svg": "/NovicamMarketDemo/static/media/cart.896ad80a.svg",
+    "static/media/complete-order.b997b2a1.jpg": "/NovicamMarketDemo/static/media/complete-order.b997b2a1.jpg",
+    "static/media/empty-cart.03669791.jpg": "/NovicamMarketDemo/static/media/empty-cart.03669791.jpg",
+    "static/media/heart.0f1a07ae.svg": "/NovicamMarketDemo/static/media/heart.0f1a07ae.svg",
+    "static/media/liked.bfa36d4d.svg": "/NovicamMarketDemo/static/media/liked.bfa36d4d.svg",
+    "static/media/logo.cd71228b.png": "/NovicamMarketDemo/static/media/logo.cd71228b.png",
+    "static/media/search.b2233f92.svg": "/NovicamMarketDemo/static/media/search.b2233f92.svg",
+    "static/media/unliked.4752529a.svg": "/NovicamMarketDemo/static/media/unliked.4752529a.svg",
+    "static/media/user.a2d7f9ab.svg": "/NovicamMarketDemo/static/media/user.a2d7f9ab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e5f6ee.js",
+    "static/css/2.caa02cb8.chunk.css",
+    "static/js/2.f2588cd4.chunk.js",
+    "static/css/main.66c6cec9.chunk.css",
+    "static/js/main.9771cae6.chunk.js"
+  ]
+}
